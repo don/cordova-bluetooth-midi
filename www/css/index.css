@@ -14,13 +14,7 @@ body {
     width:100%;
 }
 
-#drum {
-    width: 300px;
-    height: 300px;
-    background: black;
-    color: white;
-    border: 1px solid red;
-}
+/*http://materializecss.com/color.html*/
 
 #topLeft {
     position:absolute; 
@@ -28,7 +22,7 @@ body {
     top:0; 
     width:50%;
     height:50%; 
-    background-color:blue
+    background-color: #80d8ff
 }
 
 #topRight {
@@ -37,7 +31,7 @@ body {
     top:0; 
     width:50%; 
     height:50%; 
-    background-color:green
+    background-color: #84ffff
 }
 
 #bottomLeft {
@@ -46,7 +40,7 @@ body {
     top:50%; 
     width:50%; 
     height:50%; 
-    background-color:yellow
+    background-color:#00b0ff
 }
 
 #bottomRight {
@@ -55,5 +49,5 @@ body {
     top:50%; 
     width:50%;
     height:50%;
-    background-color:red
+    background-color:#00bcd4
 }
